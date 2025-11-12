@@ -1,5 +1,7 @@
 # EDR-Assessment
 
+
+#https://github.com/redcanaryco/atomic-red-team/wiki
 #https://www.youtube.com/watch?v=2XqGEa0XWO8
 #https://www.youtube.com/watch?v=3jGi_ko5RqI
 
